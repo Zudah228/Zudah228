@@ -1,8 +1,9 @@
 <link href="style.css" rel="stylesheet"></link>
 最終更新日 2022/3/4
 
-## Github Status
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zudah228)
+## GitHub Streak
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zudha228&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D)
 
 
 ## 経験技術
