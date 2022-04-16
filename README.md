@@ -1,28 +1,27 @@
 <link href="style.css" rel="stylesheet"></link>
-最終更新日 2022/3/4
+最終更新日 2022/4/16
 
-## GitHub Streak
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zudha228&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D)
-
+## 使用言語
+- Dart
+- TypeScript
+  - [fireorm](https://github.com/wovalle/fireorm) を参考にして、Firebase SDK と Firebase Admmin SDK を自社アーキテクチャ用にライブラリ化。
 
 ## 経験技術
 - Flutter
   - since Aug. 2020
-  - 業務で設計・実装から実装までを1度経験
+  - 業務で設計・実装から実装までを1度経験（ presentation 層と domain 層）
   - 主な状態管理 - RiverPod
-  - プッシュ通知実装経験あり
-  - x Firebase
+  - プッシュ通知
+  - Firebase
   - 今後の展望
     - 最新のパッケージなどにキャッチアップし続けて、開発速度のアップ。
     - アニメーションのバリエーションを増やす。
-    - Firestore のキャッシュの有効活用。
 
-- Vue.js (Nuxt.js)
-  - 開発経験は1プロジェクトのみ
+- Vue.js (Nuxt.js)　x TypeScript
   - Vue 2.x
   - Option API
     - Composition API は独学で触ったのみで、業務で触ったことはない。
+  - Firebase x Algolia で CRUD や複雑なクエリを利用した管理ページ。
   - 今後の展望
     - Web フロントエンドは、Svelte.js に置き換えたい。
 
@@ -50,6 +49,9 @@
   - [Vue.jsビギナーズガイド 3.x 対応](https://www.amazon.co.jp/dp/4863543328/ref=cm_sw_em_r_mt_dp_RC1FRWZDGAF6R9FKMCZ7)
   - [Nuxt.jsビギナーズガイド―Vue.js ベースのフレームワークによるシングルページアプリケーション開発](https://www.amazon.co.jp/dp/4863542569/ref=cm_sw_em_r_mt_dp_8KXY7ERPEFZWG4KS234V?_encoding=UTF8&psc=1)
   - [みんなのVue.js](https://www.amazon.co.jp/dp/4297119021/ref=cm_sw_em_r_mt_dp_5AHXMJVZTABNE6Z2TNSC)
+
+- TypeScript
+  - [プログラミングTypeScript ―スケールするJavaScriptアプリケーション開発](https://www.amazon.co.jp/dp/4873119049/ref=cm_sw_em_r_mt_dp_H1BY8PV05P2PPR4B907D?_encoding=UTF8&psc=1)
 
 - Firebase / Google Cloud Platform
   - [実践Firestore (技術の泉シリーズ（NextPublishing）](https://www.amazon.co.jp/dp/484437852X/ref=cm_sw_em_r_mt_dp_1XM1VC6ZDEGX5PZ94RTT?_encoding=UTF8&psc=1)
