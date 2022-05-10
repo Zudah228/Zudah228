@@ -1,17 +1,17 @@
 <link href="style.css" rel="stylesheet"></link>
 最終更新日 2022/4/16
 
-## 使用言語
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zudah228&exclude_repo=SmashHelper-Hyosma&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 主な使用言語
 - Dart
 - TypeScript
-  - [fireorm](https://github.com/wovalle/fireorm) を参考にして、Firebase SDK と Firebase Admmin SDK を自社アーキテクチャ用にライブラリ化。
 
 ## 経験技術
 - Flutter
   - since Aug. 2020
   - 業務で設計・実装から実装までを1度経験（ presentation 層と domain 層）
   - 主な状態管理 - RiverPod
-  - プッシュ通知
   - Firebase
   - 今後の展望
     - 最新のパッケージなどにキャッチアップし続けて、開発速度のアップ。
@@ -25,7 +25,7 @@
   - 今後の展望
     - Web フロントエンドは、Svelte.js に置き換えたい。
 
-- Firebase Extension (TypeScript x Node.js)
+- Firebase (TypeScript x Node.js)
   - Cloud Function
     - Firestore Trigger
     - HTTP Request
