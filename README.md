@@ -2,10 +2,12 @@
 
 # Zudah228
 
-最終更新日 2022/5/10
+最終更新日 2022/5/13
 
 <br/>
-<br/>
+
+- [Twitter](https://twitter.com/Zudah228)
+- [Zenn](https://zenn.dev/zudah228?tab=scraps)（検証と失敗の経緯が分かりやすくて好きなので、主にスクラップでアウトプットしてます）
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zudah228&exclude_repo=SmashHelper-Hyosma&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
